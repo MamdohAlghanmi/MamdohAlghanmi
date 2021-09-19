@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MamdohAlghanmi
+- 👀 I’m interested in DataAnalysis
+- 🌱 I’m currently learning Paython PowerBI
+- 💞️ I’m looking to collaborate on Solve your Problems
+- 📫 How to reach me Mamdoh.a.alghanmi@gmail.com
