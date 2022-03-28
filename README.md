@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MamdohAlghanmi
-- 👀 I’m interested in DataAnalysis
-- 🌱 I’m currently learning Paython PowerBI
-- 💞️ I’m looking to collaborate on Solve your Problems
+- 2020 Gradute King Abdulaziz University 
+- Major Computer Science
+- I'am Intrested about Programming and Data Science , Analysis , Engineering
 - 📫 How to reach me Mamdoh.a.alghanmi@gmail.com
